@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Pyrhon Week Programs/.idea/Pyrhon Week Programs.iml" filepath="$PROJECT_DIR$/../Pyrhon Week Programs/.idea/Pyrhon Week Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python internal/.idea/Python internal.iml" filepath="$PROJECT_DIR$/../Python internal/.idea/Python internal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/patterns in python.iml" filepath="$PROJECT_DIR$/.idea/patterns in python.iml" />
+    </modules>
+  </component>
+</project>
